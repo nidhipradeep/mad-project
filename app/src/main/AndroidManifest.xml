@@ -16,17 +16,20 @@
         android:theme="@style/Theme.ScholarshipApplication"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity2"
+            android:name=".premetric"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".postmetric"
+            android:exported="false" />
+        <activity android:name=".MainActivity1"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
+
     </application>
 
 </manifest>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".premetric">
+
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="382dp"
+        android:layout_height="130dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginEnd="16dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.101">
+
+        <TextView
+            android:id="@+id/Backward"
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:background="#651FFF"
+            android:paddingTop="30px"
+            android:text="BACKWARD CLASSES"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/backward_link"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:paddingLeft="30px"
+            android:text="Government Link:" />
+
+        <TextView
+            android:id="@+id/link1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pre_backward_link"
+            android:textAlignment="center" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="384dp"
+        android:layout_height="112dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="400dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.555"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/scst"
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:background="#651FFF"
+            android:paddingTop="30px"
+            android:text="SC/ST"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/scst_link"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:paddingLeft="30px"
+            android:text="Government Link:" />
+
+        <TextView
+            android:id="@+id/link2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pre_scst_link"
+            android:textAlignment="center" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="377dp"
+        android:layout_height="124dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="64dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.666"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/minority"
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:background="#651FFF"
+            android:paddingTop="30px"
+            android:text="MINORITY"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/minority_link"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:paddingLeft="30px"
+            android:text="Government Link:" />
+
+        <TextView
+            android:id="@+id/link3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pre_minority_link"
+            android:textAlignment="center" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="383dp"
+        android:layout_height="106dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="240dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/merit"
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:background="#651FFF"
+            android:paddingTop="30px"
+            android:text="MERIT"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/merit_link"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:paddingLeft="30px"
+            android:text="Government Link:" />
+
+        <TextView
+            android:id="@+id/link4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pre_merit_link"
+            android:textAlignment="center" />
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
