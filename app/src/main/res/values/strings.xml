@@ -3,4 +3,12 @@
     <string name="scholarship_categories">Scholarship Categories</string>
     <string name="sub_heading">Sub Heading</string>
     <string name="image">image</string>
+    <string name="post_backward_link" ><a href="https://bcwd.karnataka.gov.in/info-2/Scholarships/Post-Matric+Scholarship/en">https://bcwd.karnataka.gov.in/info-2/Scholarships/Pre-Matric+Scholarship/en</a></string>
+    <string name="pre_backward_link" ><a href="https://bcwd.karnataka.gov.in/info-2/Scholarships/Pre-Matric+Scholarship/en">https://bcwd.karnataka.gov.in/info-2/Scholarships/Pre-Matric+Scholarship/en</a></string>
+    <string name="post_scst_link" ><a href="https://bcwd.karnataka.gov.in/info-2/Scholarships/Post-Matric+Scholarship/en">https://bcwd.karnataka.gov.in/info-2/Scholarships/Pre-Matric+Scholarship/en</a></string>
+    <string name="pre_scst_link" ><a href="https://bcwd.karnataka.gov.in/info-2/Scholarships/Pre-Matric+Scholarship/en">https://bcwd.karnataka.gov.in/info-2/Scholarships/Pre-Matric+Scholarship/en</a></string>
+    <string name="post_minority_link" ><a href="https://bcwd.karnataka.gov.in/info-2/Scholarships/Post-Matric+Scholarship/en">https://bcwd.karnataka.gov.in/info-2/Scholarships/Pre-Matric+Scholarship/en</a></string>
+    <string name="pre_minority_link" ><a href="https://bcwd.karnataka.gov.in/info-2/Scholarships/Pre-Matric+Scholarship/en">https://bcwd.karnataka.gov.in/info-2/Scholarships/Pre-Matric+Scholarship/en</a></string>
+    <string name="post_merit_link" ><a href="https://bcwd.karnataka.gov.in/info-2/Scholarships/Post-Matric+Scholarship/en">https://bcwd.karnataka.gov.in/info-2/Scholarships/Pre-Matric+Scholarship/en</a></string>
+    <string name="pre_merit_link" ><a href="https://bcwd.karnataka.gov.in/info-2/Scholarships/Pre-Matric+Scholarship/en">https://bcwd.karnataka.gov.in/info-2/Scholarships/Pre-Matric+Scholarship/en</a></string>
 </resources>
